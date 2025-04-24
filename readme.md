@@ -1,5 +1,5 @@
 - @zero1ai
-- Fracton: A Tradic Framework
+- Writer of Fracton: A Triadic Framework for AGI Alignment
 - AI, code, development.
 - Solidity, Python and Javascript.
 - Hackatons, Startups and  projects.
