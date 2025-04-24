@@ -1,7 +1,8 @@
 - @zero1ai
-- AI, development and creative solutions to modern problems.
+- Fracton: A Tradic Framework
+- AI, code, development.
 - Solidity, Python and Javascript.
-- Hackatons, Startups and innovative projects.
+- Hackatons, Startups and  projects.
 - hello@zero1.ai
 - Soma
 - AI, Space, Mobility and Health Innovations.
